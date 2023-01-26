@@ -43,6 +43,66 @@
       ]
     }
   ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blogs 1",
+      "data": [
+        {
+          "id": 1,
+          "text": "Lorem ipsum dolor ",
+          "imageurl": "assets/images/blog.png",
+          "amount": "345",
+          "cols": 1,
+          "rows": 2,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ullamcorper ullamcorper tempor. Praesent euismod fringilla nulla nec bibendum. Cras ut volutpat lectus. Vivamus tincidunt tellus lectus, sed euismod sem molestie iaculis. Maecenas vitae lobortis lorem. Integer nisl justo, viverra non justo vitae, pharetra.",
+          "dateicon": "schedule",
+          "datecreated": "22 July 2020",
+          "usericon": "person",
+          "username": "Jahanzaib Ahmad"
+        },
+        {
+          "id": 1,
+          "text": "Lorem ipsum dolor ",
+          "imageurl": "assets/images/blog.png",
+          "amount": "267",
+          "cols": 1,
+          "rows": 2,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ullamcorper ullamcorper tempor. Praesent euismod fringilla nulla nec bibendum. Cras ut volutpat lectus. Vivamus tincidunt tellus lectus, sed euismod sem molestie iaculis. Maecenas vitae lobortis lorem. Integer nisl justo, viverra non justo vitae, pharetra.",
+          "dateicon": "schedule",
+          "datecreated": "22 July 2020",
+          "usericon": "person",
+          "username": "Ali ali"
+        },
+        {
+          "id": 1,
+          "text": "Lorem ipsum dolor ",
+          "imageurl": "assets/images/blog.png",
+          "amount": "345",
+          "cols": 1,
+          "rows": 2,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ullamcorper ullamcorper tempor. Praesent euismod fringilla nulla nec bibendum. Cras ut volutpat lectus. Vivamus tincidunt tellus lectus, sed euismod sem molestie iaculis. Maecenas vitae lobortis lorem. Integer nisl justo, viverra non justo vitae, pharetra.",
+          "dateicon": "schedule",
+          "datecreated": "22 July 2020",
+          "usericon": "person",
+          "username": "John Paul"
+        },
+        {
+          "id": 1,
+          "text": "Lorem ipsum dolor ",
+          "imageurl": "assets/images/blog.png",
+          "amount": "345",
+          "cols": 1,
+          "rows": 2,
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ullamcorper ullamcorper tempor. Praesent euismod fringilla nulla nec bibendum. Cras ut volutpat lectus. Vivamus tincidunt tellus lectus, sed euismod sem molestie iaculis. Maecenas vitae lobortis lorem. Integer nisl justo, viverra non justo vitae, pharetra.",
+          "dateicon": "schedule",
+          "datecreated": "22 July 2020",
+          "usericon": "person",
+          "username": "Alex Paul"
+        }
+      ]
+    }
+  ],
   "comments": [
     {
       "id": 1,
